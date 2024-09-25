@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/refactoring-old-react/static/css/main.d09b0095.css",
+    "main.js": "/refactoring-old-react/static/js/main.f68b626c.js",
+    "index.html": "/refactoring-old-react/index.html",
+    "main.d09b0095.css.map": "/refactoring-old-react/static/css/main.d09b0095.css.map",
+    "main.f68b626c.js.map": "/refactoring-old-react/static/js/main.f68b626c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b0095.css",
+    "static/js/main.f68b626c.js"
+  ]
+}
